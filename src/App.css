@@ -1,38 +1,113 @@
-.App {
-  text-align: center;
+:root {
+  --mainpurple: #5A2962;
+  --danger: #ff0000;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+  font-family: HelveticaBold;
+  src: url('./fonts/Helvetica-Bold-Font.ttf');
+  font-weight: bold;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@font-face {
+  font-family: HelveticaLight;
+  src: url('./fonts/helvetica_light.ttf');
+  font-weight: light;
+}
+@font-face {
+  font-family: HelveticaLightItalic;
+  src: url('./fonts/Helvetica-Light-Oblique-font.ttf');
+  font-weight: light;
+}
+body {
+  font-size: 1.25rem!important;
+}
+@media only screen and (max-width: 767px) {
+  body {
+    font-size: 1rem!important;
   }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.purple {
+  color: var(--mainpurple);
 }
-
-.App-link {
-  color: #61dafb;
+.banner .col-md-12 {
+  padding: 0;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.helvetica-bold,
+strong {
+  font-family: HelveticaBold;
+}
+.helvetica-light {
+  font-family: HelveticaLight;
+}
+.content-1 .content-header,
+.penting {
+  font-size: 4.0625rem;
+}
+@media only screen and (max-width: 767px) {
+  .content-1 .content-header,
+  .penting {
+    font-size: 2.25rem;
   }
-  to {
-    transform: rotate(360deg);
+}
+@media only screen and (max-width: 575px) {
+  .content-1 .content-header,
+  .penting {
+    font-size: 2.125rem;
   }
+}
+.content-1 .subtitle {
+  color: #000;
+}
+@media only screen and (max-width: 767px) {
+  .content-1 .subtitle {
+    font-size: 1.625rem;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .content-1 .subtitle {
+    font-size: 1.5rem;
+  }
+}
+.letter-content p {
+  font-size: 1.25rem;
+}
+.letter-list li {
+  font-family: HelveticaBold;
+  font-size: 1.25rem;
+  border: none;
+  padding: .75rem 0rem
+}
+.content-4 .letter-list li {
+  font-family: HelveticaLight
+}
+.letter-list li img {
+  margin-right: 20px;
+}
+.content:not(.content-1) .content-header {
+  font-size: 3.125rem;
+}
+@media only screen and (max-width: 768px) {
+  .content:not(.content-1) .content-header {
+    font-size: 2.125rem;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .content:not(.content-1) .content-header {
+    font-size: 2rem;
+  }
+}
+.danger {
+  color: var(--danger);
+}
+.btn-big {
+  border-radius: 50px!important;
+  font-size: 3.125rem!important;
+  text-transform: uppercase!important;
+  font-family: HelveticaBold;
+  padding: 1.25rem 2rem!important;
+}
+.disclamer p {
+  font-size: 1.125rem;
+}
+.helveticaLightItalic {
+  font-family: HelveticaLightItalic;
 }
