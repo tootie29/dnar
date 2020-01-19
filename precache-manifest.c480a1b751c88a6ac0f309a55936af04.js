@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5a200089985021232d107ed3b3feb7f",
+    "revision": "db2e2642c3da5adc94a849c54cfa7760",
     "url": "/dnar/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dnar/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "48616ff66da53493c24c",
-    "url": "/dnar/static/css/main.8532bba9.chunk.css"
+    "revision": "37ae312fa0ee060b4d1d",
+    "url": "/dnar/static/css/main.f6f7c762.chunk.css"
   },
   {
     "revision": "a36dda6aa91d2b1b4d48",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dnar/static/js/2.151d79b4.chunk.js.LICENSE"
   },
   {
-    "revision": "48616ff66da53493c24c",
+    "revision": "37ae312fa0ee060b4d1d",
     "url": "/dnar/static/js/main.425348f9.chunk.js"
   },
   {
