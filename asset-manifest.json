@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dnar/static/css/main.f6f7c762.chunk.css",
+    "main.css": "/dnar/static/css/main.c8568c22.chunk.css",
     "main.js": "/dnar/static/js/main.d17e4ca0.chunk.js",
     "main.js.map": "/dnar/static/js/main.d17e4ca0.chunk.js.map",
     "runtime-main.js": "/dnar/static/js/runtime-main.84fad61f.js",
@@ -9,10 +9,10 @@
     "static/js/2.151d79b4.chunk.js": "/dnar/static/js/2.151d79b4.chunk.js",
     "static/js/2.151d79b4.chunk.js.map": "/dnar/static/js/2.151d79b4.chunk.js.map",
     "index.html": "/dnar/index.html",
-    "precache-manifest.2993cbb5ce527735003f651fe31e234b.js": "/dnar/precache-manifest.2993cbb5ce527735003f651fe31e234b.js",
+    "precache-manifest.d429fab08d7e7cf938f88e4f4879d89c.js": "/dnar/precache-manifest.d429fab08d7e7cf938f88e4f4879d89c.js",
     "service-worker.js": "/dnar/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/dnar/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.f6f7c762.chunk.css.map": "/dnar/static/css/main.f6f7c762.chunk.css.map",
+    "static/css/main.c8568c22.chunk.css.map": "/dnar/static/css/main.c8568c22.chunk.css.map",
     "static/js/2.151d79b4.chunk.js.LICENSE": "/dnar/static/js/2.151d79b4.chunk.js.LICENSE",
     "static/media/DANGER.png": "/dnar/static/media/DANGER.0d962d60.png",
     "static/media/App.css": "/dnar/static/media/helvetica_light.68866f03.ttf",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.84fad61f.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.151d79b4.chunk.js",
-    "static/css/main.f6f7c762.chunk.css",
+    "static/css/main.c8568c22.chunk.css",
     "static/js/main.d17e4ca0.chunk.js"
   ]
 }
