@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/dnar/static/css/main.8532bba9.chunk.css",
+    "main.js": "/dnar/static/js/main.425348f9.chunk.js",
+    "main.js.map": "/dnar/static/js/main.425348f9.chunk.js.map",
+    "runtime-main.js": "/dnar/static/js/runtime-main.84fad61f.js",
+    "runtime-main.js.map": "/dnar/static/js/runtime-main.84fad61f.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/dnar/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.151d79b4.chunk.js": "/dnar/static/js/2.151d79b4.chunk.js",
+    "static/js/2.151d79b4.chunk.js.map": "/dnar/static/js/2.151d79b4.chunk.js.map",
+    "index.html": "/dnar/index.html",
+    "precache-manifest.5d5832b42c141822d94df95c018524c6.js": "/dnar/precache-manifest.5d5832b42c141822d94df95c018524c6.js",
+    "service-worker.js": "/dnar/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/dnar/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.8532bba9.chunk.css.map": "/dnar/static/css/main.8532bba9.chunk.css.map",
+    "static/js/2.151d79b4.chunk.js.LICENSE": "/dnar/static/js/2.151d79b4.chunk.js.LICENSE",
+    "static/media/DANGER.png": "/dnar/static/media/DANGER.0d962d60.png",
+    "static/media/App.css": "/dnar/static/media/helvetica_light.68866f03.ttf",
+    "static/media/PIC-1.png": "/dnar/static/media/PIC-1.fa1b8881.png",
+    "static/media/PIC-2.png": "/dnar/static/media/PIC-2.3444913c.png",
+    "static/media/PIC-3.png": "/dnar/static/media/PIC-3.3b2105b1.png",
+    "static/media/PIC-4.png": "/dnar/static/media/PIC-4.5ab80be3.png",
+    "static/media/PIC-TESTIMONI-1.png": "/dnar/static/media/PIC-TESTIMONI-1.40ef2e85.png",
+    "static/media/PIC-TESTIMONI-2.png": "/dnar/static/media/PIC-TESTIMONI-2.8e1683d3.png",
+    "static/media/PIC-TESTIMONI-3.png": "/dnar/static/media/PIC-TESTIMONI-3.5cbede00.png",
+    "static/media/SIJIL-KKM-1.png": "/dnar/static/media/SIJIL-KKM-1.75ffc8eb.png",
+    "static/media/SIJIL-KKM-2.png": "/dnar/static/media/SIJIL-KKM-2.f19a0d93.png",
+    "static/media/SIJIL-KKM-3.png": "/dnar/static/media/SIJIL-KKM-3.2c58771f.png",
+    "static/media/SIJIL-KKM-4.png": "/dnar/static/media/SIJIL-KKM-4.1e78275c.png",
+    "static/media/SIJIL-KKM-5.png": "/dnar/static/media/SIJIL-KKM-5.d632ff9b.png",
+    "static/media/STAR.png": "/dnar/static/media/STAR.77831036.png",
+    "static/media/img-1.png": "/dnar/static/media/img-1.496a8d64.png",
+    "static/media/question-mark.png": "/dnar/static/media/question-mark.32693340.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84fad61f.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.151d79b4.chunk.js",
+    "static/css/main.8532bba9.chunk.css",
+    "static/js/main.425348f9.chunk.js"
+  ]
+}
