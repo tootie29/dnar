@@ -441,8 +441,10 @@ export default class Home extends Component {
                     <div className="content content-13 my-5">
                         <div className="container">
                             <div className="row disclamer">
-                                <p className="mb-0"><strong>Disclamer</strong></p>
-                                <p className="helvetica-light"><i>Tindak balas pada kulit wajah mungkin berbeza mengikut keadaan kulit wajah individu. INGAT! Produk kecantikan terbaik adalah yang diperbuat daripada bahan semulajadi, lulus KKM, terbukti berkesan dan tidak menjanjikan hasil yang terlampau pantas.</i></p>
+                                <div className="col-md-12">
+                                    <p className="mb-0"><strong>Disclamer</strong></p>
+                                    <p className="helvetica-light"><i>Tindak balas pada kulit wajah mungkin berbeza mengikut keadaan kulit wajah individu. INGAT! Produk kecantikan terbaik adalah yang diperbuat daripada bahan semulajadi, lulus KKM, terbukti berkesan dan tidak menjanjikan hasil yang terlampau pantas.</i></p>
+                                </div>
                             </div>
                         </div>
                     </div>
